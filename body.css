@@ -189,7 +189,7 @@ h1 {
     width: 97.6%;
     position: absolute;
     bottom: 0;
-  background-color: #d32f2f;
+  background-color: #333333;
   color: #ffffff;
   padding: 2rem 1rem;
   text-align: center;
@@ -223,6 +223,11 @@ footer .contact-info p {
   margin: 0;
   font-size: 12px;
 }
+footer .contact-info p :hover{
+  
+  color: #ffeb3b;
+}
+
 
 footer .contact-info a {
   text-decoration: none;
